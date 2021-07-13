@@ -1,0 +1,9 @@
+{
+	"posts": [
+		{
+			"title": "New website",
+			"imageName": "new-site",
+			"md": "helloWorld"
+		}
+	]
+}
