@@ -1,1 +1,9 @@
-{"posts":[{"title":"Autodesk Art","imageName":"plasma ball","md":"new-autodesk-art"}]}
+{
+	"posts": [
+		{
+			"title": "Autodesk Art",
+			"imageName": "plasma_ball",
+			"md": "new-autodesk-art"
+		}
+	]
+}
